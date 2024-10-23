@@ -34,7 +34,7 @@ const Login = () => {
           value={data.username}
           onChange={handleChange}
         />
-        <label htmlFor="password">Contraseña</label>
+        <label htmlFor="password">Contraseña:</label>
         <input
           id="password"
           required
