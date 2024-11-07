@@ -4,7 +4,7 @@ import "./styles/MyProfile.css";
 function MyProfile({
   userData = {
     username: "Nombre de usuario aquí",
-    email: "Correo electrónico aqui",
+    email: "Correo electrónico aquí",
   },
   setIsLoggedIn,
 }) {
